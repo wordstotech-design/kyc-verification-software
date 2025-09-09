@@ -1,0 +1,22 @@
+{
+  "verification_id": "abc123456789",
+  "status": "verified",
+  "timestamp": "2025-09-09T12:34:56Z",
+  "user": {
+    "first_name": "Jane",
+    "last_name": "Doe",
+    "dob": "1995-04-12",
+    "document_type": "passport",
+    "document_country": "US",
+    "document_number": "X12345678"
+  },
+  "biometric": {
+    "face_match_score": 98.6,
+    "liveness_check": "passed"
+  },
+  "aml_screening": {
+    "pep_match": false,
+    "sanctions_match": false,
+    "adverse_media": false
+  }
+}
