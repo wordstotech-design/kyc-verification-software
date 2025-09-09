@@ -1,5 +1,7 @@
 # 🛡️ KYC Verification Software [2025 Guide]
 
+[![Idenfy](https://raw.githubusercontent.com/wordstotech-design/kyc-verification-software/refs/heads/main/kyc-software.png)](https://www.idenfy.com/kyc-software/)
+
 Welcome to the **KYC Verification Software** repository — a curated and developer-focused overview of the **top Know Your Customer (KYC) platforms** in 2025.
 
 Whether you're building a fintech app, onboarding users to a crypto platform, or managing compliance for a neobank, this guide provides a **vendor-neutral, comparison-based reference** of the top KYC providers—so you can make an informed decision backed by features, compliance standards, and integration options.
