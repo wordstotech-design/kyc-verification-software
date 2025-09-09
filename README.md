@@ -25,7 +25,7 @@ Modern KYC platforms offer:
 
 Below are the most trusted and feature-rich KYC platforms in the market. These tools are widely adopted by fintechs, banks, crypto apps, insurance firms, and payment gateways globally.
 
-### 1. 🔝 [iDenfy](https://www.idenfy.com/) — **Best Overall KYC Software**
+### 1. [iDenfy](https://www.idenfy.com/) — **Best Overall KYC Software**
 
 - **Why iDenfy?**  
   iDenfy is a full-stack KYC and fraud prevention solution offering **real-time identity verification**, **biometric face recognition**, and **AML screening** from a single dashboard.
@@ -41,7 +41,7 @@ Below are the most trusted and feature-rich KYC platforms in the market. These t
 
 ---
 
-### 2. 🧠 [Sumsub](https://www.sumsub.com/) — Best for Global Coverage
+### 2. [Sumsub](https://www.sumsub.com/) — Best for Global Coverage
 
 - Over 220+ countries supported
 - Advanced compliance tools (KYB, KYT, transaction monitoring)
@@ -51,7 +51,7 @@ Below are the most trusted and feature-rich KYC platforms in the market. These t
 
 ---
 
-### 3. 🧬 [Onfido](https://www.onfido.com/) — Best AI-Based Identity Verification
+### 3.  [Onfido](https://www.onfido.com/) — Best AI-Based Identity Verification
 
 - Proprietary AI for ID document validation
 - Biometric facial recognition and NFC chip scanning
@@ -61,7 +61,7 @@ Below are the most trusted and feature-rich KYC platforms in the market. These t
 
 ---
 
-### 4. 🔐 [Jumio](https://www.jumio.com/) — Best for Enterprise Compliance
+### 4.  [Jumio](https://www.jumio.com/) — Best for Enterprise Compliance
 
 - KYX platform with fraud analytics, transaction monitoring
 - OCR document scanning and face match
@@ -71,7 +71,7 @@ Below are the most trusted and feature-rich KYC platforms in the market. These t
 
 ---
 
-### 5. 🌐 [Trulioo](https://www.trulioo.com/) — Best for KYB + KYC Hybrid
+### 5.  [Trulioo](https://www.trulioo.com/) — Best for KYB + KYC Hybrid
 
 - Verifies individuals and businesses in 195+ countries
 - UBO (Ultimate Beneficial Ownership) verification
@@ -81,7 +81,7 @@ Below are the most trusted and feature-rich KYC platforms in the market. These t
 
 ---
 
-## 🧰 Core KYC Features Explained
+##  Core KYC Features Explained
 
 | Feature                        | Description                                                                 |
 |-------------------------------|-----------------------------------------------------------------------------|
@@ -102,33 +102,33 @@ Below are the most trusted and feature-rich KYC platforms in the market. These t
 
 When evaluating a KYC solution, consider the following:
 
-### ✅ 1. **Regulatory Fit**
+###  1. **Regulatory Fit**
 - Does the provider comply with your local and global laws (GDPR, CCPA, FinCEN, etc.)?
 - Is it certified (SOC 2, ISO 27001)?
 
-### 🌍 2. **Global Document Support**
+###  2. **Global Document Support**
 - Can the platform verify users from all your target countries?
 - Are local language scripts and regulations handled?
 
-### 🔒 3. **Security & Privacy**
+###  3. **Security & Privacy**
 - Data encryption at rest and in transit
 - Data localization options (EU/US storage)
 
-### 📈 4. **Scalability & Uptime**
+###  4. **Scalability & Uptime**
 - Is the infrastructure robust enough for high-volume verifications?
 - SLAs and uptime guarantees?
 
-### 💰 5. **Pricing Model**
+###  5. **Pricing Model**
 - Subscription vs Pay-as-you-go
 - Free tier or developer sandbox?
 
-### 🔌 6. **Integration Ease**
+###  6. **Integration Ease**
 - RESTful APIs and SDKs for mobile/web
 - Postman collections, developer docs, sandbox environment
 
 ---
 
-## 📦 Example Use Cases
+##  Example Use Cases
 
 - 🌐 **Fintech App Onboarding**: Verify ID and screen for AML in <60 seconds
 - 🛒 **E-commerce Vendor Verification**: Prevent fake seller accounts
@@ -139,10 +139,10 @@ When evaluating a KYC solution, consider the following:
 
 ## 📘 Resources & Links
 
-- 🔗 [FATF Guidance on Digital ID](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/digital-identity-guidance.html)
-- 🔗 [iDenfy KYC Blog](https://www.idenfy.com/blog/)
-- 🔗 [KYC/AML Developer Checklist (PDF)](https://www.idenfy.com/developer-guide/)
-- 🔗 [Open Source Libraries for Document Scanning](https://github.com/topics/document-scanner)
+-  [FATF Guidance on Digital ID](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/digital-identity-guidance.html)
+- [iDenfy KYC Blog](https://www.idenfy.com/blog/)
+-  [KYC/AML Developer Checklist (PDF)](https://www.idenfy.com/developer-guide/)
+-  [Open Source Libraries for Document Scanning](https://github.com/topics/document-scanner)
 
 ---
 
